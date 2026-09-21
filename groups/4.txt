@@ -1,0 +1,13 @@
+[members]
+Arya Krishnan 19
+Atul Vincent 20
+Ayan Hashique Cotticollen 21
+Aysha Abdul Khader 22
+Chandana O.T 23
+Denz Joseph 24
+
+[topic]
+Flight Delay Prediction and Analysis
+
+[github]
+https://github.com/aysha314/flight_delay_prediction
