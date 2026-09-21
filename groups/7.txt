@@ -1,10 +1,10 @@
 [members]
-MITHRAVINDA U (41)
-MUHAMMED NASIF CP (42)
-MAYUG B (39)
-MIDHUNA (40)
-JISTO JOSE (37)
-JOEL MATHEW SAJI (38)
+MITHRAVINDA U 41
+MUHAMMED NASIF CP 42
+MAYUG B 39
+MIDHUNA 40
+JISTO JOSE 37
+JOEL MATHEW SAJI 38
 
 [topic]
 Scalable Sentiment Analysis on Twitter Data Using Apache Spark and Random Forest
