@@ -1,0 +1,13 @@
+[members]
+Akash Wilson (7)
+Akshay K P (8)
+Alanta Jose (9)
+Alanta Mariya Babu (10)
+Alex Shaju (11)
+Allen Saji (12)
+
+[topic]
+Business Intelligence and Opportunity Analysis System
+
+[github]
+https://github.com/Akshay637441/businesss_intelligence_system
