@@ -1,0 +1,13 @@
+[members]
+AASHIL REJI       VML24AD002
+ABHINAV KRISHNA   VML24AD004
+ABIN BIJU         VML24AD007
+ABIN SAJI         VML24AD009
+ABINAND CV        VML24AD006
+AKARSH PREM       VML24AD014
+
+[topic]
+IPL Sentiment Analysis and Match Prediction Using Big Data
+
+[github]
+https://github.com/AKARSH-9918/ipl-sentiment-prediction
