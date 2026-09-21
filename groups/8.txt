@@ -1,0 +1,13 @@
+[members]
+Muzeen K 43
+Navalrag V P 44
+Nived Sunil 45
+P S Aadhish 46
+Prajwal Pratheev 47
+Sanha Sadik 48
+
+[topic]
+Student Dropout Prediction in MOOCs Using Apache Spark and XGBoost on the KDD Cup 2015 Dataset
+
+[github]
+https://github.com/aadhi5h/dropout-prediction
