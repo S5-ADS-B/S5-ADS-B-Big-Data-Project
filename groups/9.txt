@@ -1,0 +1,13 @@
+[members]
+Sanjay Satheesh VML24AD101
+Sanvi Praveen VML24AD103
+Shalbin Peter VML24AD105
+Sriya Sreejesh VML24AD108
+Sreehari Rajesh VML24AD110
+Sreelakshmi VML24AD111
+
+[topic]
+Weather data Analysis
+
+[github]
+https://github.com/SanviPraveen/weather-data-analysis
