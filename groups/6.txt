@@ -1,0 +1,13 @@
+[members]
+Don Joe Biju VML24AD055
+Emil Sebastian VML24AD057
+Flavia Dary Joseph VML24AD059
+Hariraj K VML24AD060
+Jamilin George Olickal VML24AD062
+Jeon M U VML24AD063
+
+[topic]
+Fake News Detection at Scale
+
+[github]
+https://github.com/flaviadaryjoseph/fake_news_detection_at_scale
